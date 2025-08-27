@@ -12,7 +12,7 @@ int main() {
     root1 = (-b + sqrt(d)) / (2*a);
     root2 = (-b - sqrt(d)) / (2*a);
 
-    printf("Root1 = %.2f\n", root1);
-    printf("Root2 = %.2f\n", root2);
+    printf("Root1 = %.f\n", root1);
+    printf("Root2 = %.f\n", root2);
     return 0;
 }
